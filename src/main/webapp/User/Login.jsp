@@ -7,7 +7,7 @@
         <title>Login</title>
         <link rel="stylesheet" href="Style.css">
     </head>
-    <body>
+    <body style="background-color: #ACAB8F  ">
         
         <c:import url="/header.jsp"></c:import>
            <div class="container">

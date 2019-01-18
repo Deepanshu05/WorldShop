@@ -9,7 +9,7 @@
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <title>View Product</title>
     </head>
-    <body>
+    <body style="background-color:  #F1D089    ">
         <c:import url="/header.jsp"></c:import>
 
         <%
@@ -60,7 +60,7 @@
                     <br>
                     <br>
                       <div class="jumbotron" style="color:white;background-color: black; margin-top: 60px; margin-bottom: 0;">
-            <p>Welcome to Ecom</p>
+            <center>  <h6>  © 2019 WorldShop - All Rights Reserved </h6> </center>
         </div>
     </body>
 </html>

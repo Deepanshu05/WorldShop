@@ -16,7 +16,7 @@
         <title>JSP Page</title>
        
     </head>
-    <body>
+    <body style="background-color: #3F10FD">
          <c:import url="/header.jsp"></c:import>
         
          <% User u = (User)request.getSession().getAttribute("userObject");

@@ -16,7 +16,7 @@
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <title>JSP Page</title>
     </head>
-    <body>
+    <body style="background-color: #F1D089 ">
     <c:import url="/header.jsp"></c:import>
     <%
         User u = (User)request.getSession().getAttribute("userObject");

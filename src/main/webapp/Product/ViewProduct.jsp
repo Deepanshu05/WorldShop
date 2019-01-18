@@ -10,7 +10,7 @@
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <title>View Product</title>
     </head>
-    <body>
+    <body style="background-color: #0EA563    ">
         <c:import url="/header.jsp"></c:import>
 
         <%

@@ -17,7 +17,7 @@
 
     </head>
 
-    <body>
+    <body style="background-color: #8F9983">
 
        <c:import url="/header.jsp"></c:import>
 
@@ -36,6 +36,7 @@
 
 
         <div class="container">
+            <h1> Your order Sucessfully confirmed...
             <h1>Thank You</h1>
             <p>Your Order will be deliver in 3-4 Working Days</p>
             
@@ -98,7 +99,7 @@
         <br>
         <br>
         <div class="jumbotron" style="color:white;background-color: black; margin-top: 60px; margin-bottom: 0;">
-            <p>Welcome to Ecom</p>
+           <center>  <h6>  © 2019 WorldShop - All Rights Reserved </h6> </center>
         </div>
     </body>
 </html>

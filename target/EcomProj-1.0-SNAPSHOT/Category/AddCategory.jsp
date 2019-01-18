@@ -8,7 +8,7 @@
         <title>JSP Page</title>
        
     </head>
-    <body>
+    <body style="background-color: #8265FA">
         <%
             User u = (User)request.getSession().getAttribute("userObject");
     
@@ -33,7 +33,7 @@
                   
                 %>
                 
-                ${userObject}
+                
         <c:choose>
 
             <c:when test="${not empty userObject}">
